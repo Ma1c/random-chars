@@ -1,0 +1,14 @@
+C:\Users\retir\documents\git-homework\bin\Debug\net10.0\git-homework.exe
+C:\Users\retir\documents\git-homework\bin\Debug\net10.0\git-homework.deps.json
+C:\Users\retir\documents\git-homework\bin\Debug\net10.0\git-homework.runtimeconfig.json
+C:\Users\retir\documents\git-homework\bin\Debug\net10.0\git-homework.dll
+C:\Users\retir\documents\git-homework\bin\Debug\net10.0\git-homework.pdb
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.AssemblyInfoInputs.cache
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.AssemblyInfo.cs
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.csproj.CoreCompileInputs.cache
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.dll
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\refint\git-homework.dll
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.pdb
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\git-homework.genruntimeconfig.cache
+C:\Users\retir\documents\git-homework\obj\Debug\net10.0\ref\git-homework.dll
